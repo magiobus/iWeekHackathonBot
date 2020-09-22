@@ -6,7 +6,7 @@ const botsito = require('./botsito');
 const { NlpManager } = require('node-nlp');
 
 const manager = new NlpManager({ languages: ['es'], forceNER: true });
-// manager.load('./model.nlp'); //comment this first time you run the file
+manager.load('./model.nlp'); //comment this first time you run the file
 const responses = async function(msg,bot,gCalendarObject){ //responses for tagged bot
   let message = _.toLower(msg.content)
   let parsedMsg = _.lowerCase(msg.content).replace(/[0-9]/g, "")
