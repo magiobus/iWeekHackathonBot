@@ -1,7 +1,7 @@
 const random = require("random");
 const fs = require("fs");
 
-const prefix = '!';
+const prefix = '>';
 let stats = {}
 
 
@@ -23,6 +23,8 @@ const commands = function(msg,bot,){
 
   if(command === 'iweek-help'){
     bot.commands.get('help').execute(msg,args);
+  } else if (command === 'iweek-poll') {
+    bot.commands.get('poll').execute(msg,args);
   }
 }
 
