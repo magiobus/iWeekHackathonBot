@@ -16,7 +16,7 @@ const greeting = async function(member){
   //Sends Welcome Msg to New User
   await channel.send(`Hey hola ${member}, bienvenid@ al server de iWeekHackathon! 🙌 \n Por favor, checa el channel de ${rulesChannel} para explicarte cómo funciona el servidor de Discord!` )
   await member.addRole(process.env.DEFAULT_ROLE)
-  console.log(`se agrego ${member} al rol de participantes...)
+  console.log(`se agrego ${member} al rol de participantes...`)
 }
 
 const commands = function(msg,bot,gCalendarObject){
