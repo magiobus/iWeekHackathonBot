@@ -3,7 +3,7 @@ module.exports = {
     description: "Muestra los roles del server junto con su id",
     execute(msg,bot,args){
       let roles = "Roles del server con su ID \n \n"
-      msg.guild.roles.cache.forEach((role) => {
+      msg.guild.roles.forEach((role) => {
           roles += `${role.name} => ${role.id} \n`
       });
 
