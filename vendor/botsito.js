@@ -1,21 +1,22 @@
+require('dotenv').config();
 const random = require("random");
 const fs = require("fs");
 const {google} = require('googleapis');
 const jsonfile = require("jsonfile");
 
-
 const prefix = '>';
 let stats = {}
 
-
 //WELCOMES NEW USERS
-const greeting = function(member){
+const greeting = async function(member){
   const channel = member.guild.channels.find(channel => channel.name === "general👋");
   const rulesChannel = member.guild.channels.find(channel => channel.name == "📐reglas")
   if(!channel) return;
   if(!rulesChannel) return;
   //Sends Welcome Msg to New User
-  channel.send(`Hey hola ${member}, bienvenid@ al server de iWeekHackathon! 🙌 \n Por favor, checa el channel de ${rulesChannel} para explicarte cómo funciona el servidor de Discord!` )
+  await channel.send(`Hey hola ${member}, bienvenid@ al server de iWeekHackathon! 🙌 \n Por favor, checa el channel de ${rulesChannel} para explicarte cómo funciona el servidor de Discord!` )
+  await member.addRole(process.env.DEFAULT_ROLE)
+  console.log(`se agrego ${member} al rol de participantes...)
 }
 
 const commands = function(msg,bot,gCalendarObject){
@@ -30,6 +31,8 @@ const commands = function(msg,bot,gCalendarObject){
     bot.commands.get('poll').execute(msg,args);
   } else if (command === 'iweek-events') {
     bot.commands.get('events').execute(msg,bot,args,gCalendarObject);
+  } else if (command === 'iweek-roles') {
+    bot.commands.get('roles').execute(msg,bot,args);
   }
 }
 
