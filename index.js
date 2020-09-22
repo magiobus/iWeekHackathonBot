@@ -5,6 +5,8 @@ const botsito = require('./vendor/botsito');
 const fs = require('fs');
 
 const bot = new Discord.Client();
+const gCalendarObject = botsito.startGoogleApisCalendar() //initializes calendar instance of google apis
+console.log("gCalendarObject =>", gCalendarObject)
 const TOKEN = process.env.TOKEN; //Discord Env Token
 
 //Importing Commands Folder Files
@@ -13,16 +15,14 @@ const commandFiles = fs.readdirSync('./commands/').filter(file => file.endsWith(
 for(const file of commandFiles){ const command = require(`./commands/${file}`); bot.commands.set(command.name, command);}
 
 
-bot.once('ready', () => {
-  console.info(`Logged in as ${bot.user.tag}!`)
-});
+bot.once('ready', () => { console.info(`Logged in as ${bot.user.tag}!`) });
 
 //WHEN A NEW USER ENTERS THE SERVER!!!
 bot.on('guildMemberAdd', member => { botsito.greeting(member) })
 
 //WHEN A USER TYPES A MESSAGE
 bot.on('message', msg => {
-  botsito.commands(msg,bot);
+  botsito.commands(msg,bot,gCalendarObject);
   // botResponses.responses(msg,bot);
 });
 
