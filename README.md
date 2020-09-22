@@ -6,7 +6,7 @@ Install dependencies
  ```npm install```
 
  Create .env file on root with your discord bot token and google aplicattion and calendar
-  ```TOKEN=NzU3ODQ5NDYyNzU1Mjk1MzIz.X2mYUA._j0UzDl722G7ffGrY2mQDUNq02A
+  ```TOKEN=YOUR_DISCORD_BOT_TOKEN_HERE
     GOOGLE_APPLICATION_CREDENTIALS=./gCalendarConfig.json
     GOOGLE_CALENDAR_ID=your_id@group.calendar.google.com
   ```
