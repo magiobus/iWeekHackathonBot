@@ -2,13 +2,12 @@ const _ = require('lodash')
 const questionsData = require('../training/questions.json')
 const answersData = require('../training/answers.json')
 
-const botsito = require('../botsito');
+const botsito = require('./botsito');
 const { NlpManager } = require('node-nlp');
 
 const manager = new NlpManager({ languages: ['es'], forceNER: true });
-manager.load('./model.nlp');
+// manager.load('./model.nlp'); //comment this first time you run the file
 const responses = async function(msg,bot,gCalendarObject){ //responses for tagged bot
-
   let message = _.toLower(msg.content)
   let parsedMsg = _.lowerCase(msg.content).replace(/[0-9]/g, "")
 
@@ -25,40 +24,13 @@ const responses = async function(msg,bot,gCalendarObject){ //responses for tagge
     const response = await manager.process('es', parsedMsg);
 
     switch(response.intent){
-      case 'answers.levels':
-        msg.content = '!tngo-levels'
-        botsito.commands(msg, bot, gCalendarObject)
-        break;
-      case 'answers.rank':
-        msg.content = '!tngo-rank'
-        botsito.commands(msg, bot, gCalendarObject)
-        break;
       case 'answers.help':
-        msg.content = '!tngo-help'
+        msg.content = '>iweek-help'
         botsito.commands(msg, bot, gCalendarObject)
-        break;
-      case 'answers.getVideoSeries':
-        msg.channel.send("muestra serie pa ver")
-        break;
-      case 'answers.getMovie':
-        msg.content = "!tngo-getmovie"
-        botsito.commands(msg, bot)
-        break;
-      case 'answers.tellJoke':
-        msg.content = '!tngo-telljoke'
-        botsito.commands(msg, bot)
         break;
       case 'answers.events':
-        msg.content = '!tngo-events list'
+        msg.content = '>iweek-events list'
         botsito.commands(msg, bot, gCalendarObject)
-        break;
-      case 'answers.minecraft':
-        msg.content = '!tngo-maincra'
-        botsito.commands(msg, bot, gCalendarObject)
-        break;
-      case 'answers.getVideoGame':
-        msg.content = "!tngo-getvideogame"
-        botsito.commands(msg, bot)
         break;
       default:
         let randomResponse = {"answer": "Lo siento, no te endendí ☹️"}
@@ -71,7 +43,7 @@ const responses = async function(msg,bot,gCalendarObject){ //responses for tagge
           });
 
           if(match.length > 0){
-            msg.channel.send(randomResponse.answer + ' ' + msg.author)
+            msg.channel.send(`${randomResponse.answer} ${msg.author}`)
             return;
           }
         }

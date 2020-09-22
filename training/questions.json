@@ -1,0 +1,605 @@
+{
+	"questions": [
+		{
+			"text": "Cuales son los retos?",
+			"category": "answers.vertical"
+		},
+		{
+			"text": "Que verticales existen?",
+			"category": "answers.vertical"
+		},
+		{
+			"text": "Que verticales hay?",
+			"category": "answers.vertical"
+		},
+		{
+			"text": "Puedo estar yo solo en mi equipo?",
+			"category": "answers.teambuild"
+		},
+		{
+			"text": "De cuantas personas es un equipo?",
+			"category": "answers.teambuild"
+		},
+		{
+			"text": "Me quede sin equipo?",
+			"category": "answers.teambuild"
+		},
+		{
+			"text": "Como armo mi equipo?",
+			"category": "answers.teambuild"
+		},
+		{
+			"text": "No tengo mi rol de participante",
+			"category": "answers.rolcolor"
+		},
+		{
+			"text": "No tengo mi color de participante",
+			"category": "answers.rolcolor"
+		},
+		{
+			"text": "Cómo funcionan las mentorías?",
+			"category": "answers.mentorias"
+		},
+		{
+			"text": "Cómo pido mentorías?",
+			"category": "answers.mentorias"
+		},
+		{
+			"text": "Donde encuentro mentores?",
+			"category": "answers.mentorias"
+		},
+		{
+			"text": "Que cuentas?",
+			"category": "answers.howareyou"
+		},
+		{
+			"text": "Cómo andas?",
+			"category": "answers.howareyou"
+		},
+		{
+			"text": "Cómo estás?",
+			"category": "answers.howareyou"
+		},
+		{
+			"text": "Eres bien pro",
+			"category": "answers.cool"
+		},
+		{
+			"text": "Eres muy pro",
+			"category": "answers.cool"
+		},
+		{
+			"text": "Eres bien bacan",
+			"category": "answers.cool"
+		},
+		{
+			"text": "Eres bien pro",
+			"category": "answers.cool"
+		},
+		{
+			"text": "Eres genial",
+			"category": "answers.cool"
+		},
+		{
+			"text": "Eres cool",
+			"category": "answers.cool"
+		},
+		{
+			"text": "Perdoname",
+			"category": "answers.sorry"
+		},
+		{
+			"text": "perdonadme",
+			"category": "answers.sorry"
+		},
+		{
+			"text": "lo siento",
+			"category": "answers.sorry"
+		},
+		{
+			"text": "me perdonas?",
+			"category": "answers.sorry"
+		},
+		{
+			"text": "disculpame",
+			"category": "answers.sorry"
+		},
+		{
+			"text": "sumimasen",
+			"category": "answers.sorry"
+		},
+		{
+			"text": "gomen",
+			"category": "answers.sorry"
+		},
+		{
+			"text": "Que es un Hackathon?",
+			"category": "answers.hackathonmeaning"
+		},
+		{
+			"text": "Que se hace en un hackathon?",
+			"category": "answers.hackathonmeaning"
+		},
+		{
+			"text": "Que dia naciste?",
+			"category": "answers.born"
+		},
+		{
+			"text": "Cuando naciste?",
+			"category": "answers.born"
+		},
+		{
+			"text": "Que te caga?",
+			"category": "answers.youhate"
+		},
+		{
+			"text": "Que te cae mal?",
+			"category": "answers.youhate"
+		},
+		{
+			"text": "Que cosas no te gustan?",
+			"category": "answers.youhate"
+		},
+		{
+			"text": "Que odias?",
+			"category": "answers.youhate"
+		},
+		{
+			"text": "Que te gusta?",
+			"category": "answers.youlike"
+		},
+		{
+			"text": "Que haces en tu tiempo libre?",
+			"category": "answers.youlike"
+		},
+		{
+			"text": "Cuales son tus hobbies?",
+			"category": "answers.youlike"
+		},
+		{
+			"text": "Que te gusta hacer?",
+			"category": "answers.youlike"
+		},
+		{
+			"text": "Donde habitas?",
+			"category": "answers.youlive"
+		},
+		{
+			"text": "Donde está tu casa?",
+			"category": "answers.youlive"
+		},
+		{
+			"text": "Donde vives?",
+			"category": "answers.youlive"
+		},
+		{
+			"text": "Quien te creo?",
+			"category": "answers.owner"
+		},
+		{
+			"text": "Quien te hizo?",
+			"category": "answers.owner"
+		},
+		{
+			"text": "Quien es tu amo?",
+			"category": "answers.owner"
+		},
+		{
+			"text": "Para que te crearon?",
+			"category": "answers.madefor"
+		},
+		{
+			"text": "Para que te existes?",
+			"category": "answers.madefor"
+		},
+		{
+			"text": "Cual es tu proposito?",
+			"category": "answers.madefor"
+		},
+		{
+			"text": "Para que te hicieron?",
+			"category": "answers.madefor"
+		},
+		{
+			"text": "Cuantos años tienes?",
+			"category": "answers.age"
+		},
+		{
+			"text": "Cual es tu edad?",
+			"category": "answers.age"
+		},
+		{
+			"text": "Quien eres?",
+			"category": "answers.who"
+		},
+		{
+			"text": "Arigato",
+			"category": "answers.thanks"
+		},
+		{
+			"text": "Gracias",
+			"category": "answers.thanks"
+		},
+		{
+			"text": "Muchas gracias",
+			"category": "answers.thanks"
+		},
+		{
+			"text": "Te lo agradezco",
+			"category": "answers.thanks"
+		},
+		{
+			"text": "mil gracias",
+			"category": "answers.thanks"
+		},
+		{
+			"text": "thank you",
+			"category": "answers.thanks"
+		},
+		{
+			"text": "thanks",
+			"category": "answers.thanks"
+		},
+		{
+			"text": "Eres niño o niña?",
+			"category": "answers.gender"
+		},
+		{
+			"text": "Conoces a Cortana o a siri?",
+			"category": "answers.voiceAssistants"
+		},
+    {
+      "text": "Muestrame los eventos",
+      "category": "answers.events"
+    },
+    {
+      "text": "que hay esta semana?",
+      "category": "answers.events"
+    },
+    {
+      "text": "que hay que hacer esta semana?",
+      "category": "answers.events"
+    },
+    {
+      "text": "eventos de la semana",
+      "category": "answers.events"
+    },
+    {
+      "text": "horarios",
+      "category": "answers.events"
+    },
+    {
+      "text": "dame la agenda",
+      "category": "answers.events"
+    },
+    {
+      "text": "cual es la agenda de la semana?",
+      "category": "answers.events"
+    },
+    {
+      "text": "a que hora es la entrega de proyectos?",
+      "category": "answers.events"
+    },
+    {
+      "text": "a que hora es?",
+      "category": "answers.events"
+    },
+		{
+      "text": "aiura",
+      "category": "answers.help"
+    },
+		{
+      "text": "necesito aiura",
+      "category": "answers.help"
+    },
+    {
+      "text": "Ayuda",
+      "category": "answers.help"
+    },
+    {
+      "text": "Ayudame",
+      "category": "answers.help"
+    },
+    {
+      "text": "Necesito ayuda",
+      "category": "answers.help"
+    },
+
+    {
+			"text": "Cuales son tus peliculas favoritas?",
+			"category": "answers.watchMovies"
+		},
+    {
+			"text": "Que pelicula quieres ver?",
+			"category": "answers.watchMovies"
+		},
+		{
+			"text": "Puedes comer?",
+			"category": "answers.eatFood"
+		},
+    {
+			"text": "Que te gusta comer?",
+			"category": "answers.eatFood"
+		},
+    {
+			"text": "Cual es tu comida favorita?",
+			"category": "answers.eatFood"
+		},
+    {
+			"text": "Que quieres comer?",
+			"category": "answers.eatFood"
+		},
+    {
+			"text": "Buenísimo días!!! Criaturitas",
+			"category": "answers.morning"
+		},
+    {
+			"text": "bonita mañana",
+			"category": "answers.morning"
+		},
+    {
+			"text": "linda mañana",
+			"category": "answers.morning"
+		},
+		{
+			"text": "Buenos y moneadisimos días",
+			"category": "answers.morning"
+		},
+		{
+			"text": "Buenos días gente",
+			"category": "answers.morning"
+		},
+    {
+      "text": "Ohayo",
+      "category": "answers.morning"
+    },
+		{
+			"text": "buenos días",
+			"category": "answers.morning"
+		},
+		{
+			"text": "buenos días hermosos",
+			"category": "answers.morning"
+		},
+		{
+			"text": "Buen día a todes",
+			"category": "answers.morning"
+		},
+		{
+			"text": "Buen día bbs!",
+			"category": "answers.morning"
+		},
+		{
+			"text": "Buen día!!",
+			"category": "answers.morning"
+		},
+    {
+			"text": "Buena mañana!",
+			"category": "answers.morning"
+		},
+    {
+      "text": "Buena noche",
+      "category": "answers.nights"
+    },
+    {
+      "text": "Que tengas buena noche",
+      "category": "answers.nights"
+    },
+    {
+      "text": "Bonita noche!",
+      "category": "answers.nights"
+    },
+    {
+      "text": "Oyasumi!",
+      "category": "answers.nights"
+    },
+		{
+      "text": "oyasuminasai!",
+      "category": "answers.nights"
+    },
+    {
+      "text": "Que tengas una linda noche 😀",
+      "category": "answers.nights"
+    },
+    {
+      "text": "Buenas tardes ",
+      "category": "answers.afternoon"
+    },
+    {
+      "text": "Buena tarde",
+      "category": "answers.afternoon"
+    },
+    {
+      "text": "Linda tarde ✌️",
+      "category": "answers.afternoon"
+    },
+    {
+      "text": "Que tengas una buena tarde",
+      "category": "answers.afternoon"
+    },
+		{
+			"text": "hola",
+			"category": "answers.hello"
+		},
+		{
+			"text": "oli",
+			"category": "answers.hello"
+		},
+    {
+      "text": "que tranza",
+      "category": "answers.hello"
+    },
+    {
+      "text": "que onda",
+      "category": "answers.hello"
+    },
+		{
+			"text": "holi",
+			"category": "answers.hello"
+		},
+		{
+			"text": "hello",
+			"category": "answers.hello"
+		},
+		{
+			"text": "hi",
+			"category": "answers.hello"
+		},
+		{
+			"text": "konichiwa",
+			"category": "answers.hello"
+		},
+		{
+			"text": "hola como están?",
+			"category": "answers.hello"
+		},
+    {
+      "text": "Buenas gente!",
+      "category": "answers.hello"
+    },
+    {
+      "text": "wenas wenas",
+      "category": "answers.hello"
+    },
+    {
+			"text": "Hola buenas",
+			"category": "answers.hello"
+		},
+		{
+			"text": "Buenas gente!",
+			"category": "answers.hello"
+		},
+		{
+			"text": "Que tranza",
+			"category": "answers.hello"
+		},
+    {
+      "text": "adios",
+      "category": "answers.bye"
+    },
+    {
+      "text": "sayonara",
+      "category": "answers.bye"
+    },
+    {
+      "text": "nos vemos luego",
+      "category": "answers.bye"
+    },
+    {
+      "text": "nos vemos",
+      "category": "answers.bye"
+    },
+    {
+      "text": "aio",
+      "category": "answers.bye"
+    },
+    {
+      "text": "aios",
+      "category": "answers.bye"
+    },
+    {
+      "text": "babay",
+      "category": "answers.bye"
+    },
+    {
+      "text": "nos vemos mañana",
+      "category": "answers.bye"
+    },
+    {
+      "text": "hasta mañana",
+      "category": "answers.bye"
+    },
+    {
+      "text": "que descansen",
+      "category": "answers.bye"
+    },
+    {
+      "text": "Ya me tengo que ir",
+      "category": "answers.bye"
+    },
+    {
+      "text": "nos vemos mañana",
+      "category": "answers.bye"
+    },
+    {
+      "text": "nos vemos luego",
+      "category": "answers.bye"
+    },
+    {
+      "text": "bye bye",
+      "category": "answers.bye"
+    },
+		{
+			"text": "te amo",
+			"category": "answers.love"
+		},
+		{
+			"text": "te amo mucho",
+			"category": "answers.love"
+		},
+		{
+			"text": "te quiero",
+			"category": "answers.love"
+		},
+		{
+			"text": "te quiero mucho",
+			"category": "answers.love"
+		},
+		{
+			"text": "te aprecio",
+			"category": "answers.love"
+		},
+		{
+			"text": "le quiero",
+			"category": "answers.love"
+		},
+		{
+			"text": "pinchi",
+			"category": "answers.hate"
+		},
+		{
+			"text": "pinche",
+			"category": "answers.hate"
+		},
+		{
+			"text": "me cagas",
+			"category": "answers.hate"
+		},
+		{
+			"text": "te odio",
+			"category": "answers.hate"
+		},
+    {
+			"text": "no te quiero",
+			"category": "answers.hate"
+		},
+		{
+			"text": "chinga tu madre",
+			"category": "answers.hate"
+		},
+    {
+			"text": "jodete",
+			"category": "answers.hate"
+		},
+    {
+			"text": "pendejo",
+			"category": "answers.hate"
+		},
+    {
+			"text": "pendeja",
+			"category": "answers.hate"
+		},
+    {
+      "text": "fuck you",
+      "category": "answers.hate"
+    },
+    {
+      "text": "fuck u",
+      "category": "answers.hate"
+    },
+    {
+      "text": "fuck",
+      "category": "answers.hate"
+    }
+	]
+}

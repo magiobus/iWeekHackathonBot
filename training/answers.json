@@ -1,0 +1,200 @@
+{
+  "answers": [
+    {
+      "text": "Las verticales son Comercio, Turismo y Social. Puedes consultar los retos en http://www.iweek.mx/hackaton/index.html",
+      "category": "answers.vertical"
+    },
+    {
+			"text": "Los equipos son de 2 a 5 integrantes, si quedaste sin equipo escribe a Rene Pons o @magiobus",
+			"category": "answers.teambuild"
+		},
+    {
+      "text": "Si no tienes color de participante, manda un mensaje a @magiobus",
+      "category": "answers.rolcolor"
+    },
+    {
+			"text": "Ve al canal de mentorias y pide aiura, aparecera un mentor que te va a ayudar",
+			"category": "answers.mentorias"
+		},
+    {
+			"text": "Muy Bien :) ",
+			"category": "answers.howareyou"
+		},
+    {
+			"text": "Estoy muy bien, gracias",
+			"category": "answers.howareyou"
+		},
+    {
+			"text": "Todo sereno",
+			"category": "answers.howareyou"
+		},
+    {
+			"text": "Todo bien",
+			"category": "answers.howareyou"
+		},
+    {
+			"text": "Lo sé 😃",
+			"category": "answers.cool"
+		},
+    {
+			"text": "Obvio soy genial, soy un bot 🤣",
+			"category": "answers.cool"
+		},
+    {
+			"text": "Disculpa concedida",
+			"category": "answers.sorry"
+		},
+    {
+			"text": "No pasa nada",
+			"category": "answers.sorry"
+		},
+    {
+			"text": "Todo bien, no problemo",
+			"category": "answers.sorry"
+		},
+    {
+			"text": "En un hackathon solucionas problemas en equipo utilizando tecnología, es un marathon de hackers!",
+			"category": "answers.hackathonmeaning"
+		},
+    {
+      "text": "Nací en el 2020, hace unos días.",
+      "category": "answers.born"
+    },
+    {
+			"text": "No odio a nadie, soy un bot pacifico",
+			"category": "answers.youhate"
+		},
+    {
+      "text": "Comer es algo bien rico, me gustan mucho las verduras 🥦",
+      "category": "answers.eatFood"
+    },
+    {
+      "text": "Mi comida favorita son los vegetales, es la comida del futuro 🥗",
+      "category": "answers.eatFood"
+    },
+    {
+			"text": "Me gustan mucho las verduras, los videojuegos, el código y cuidar el planeta :earth_africa:",
+			"category": "answers.youlike"
+		},
+    {
+			"text": "Vivo en este server de discord 🤖",
+			"category": "answers.youlive"
+		},
+    {
+			"text": "Me creó @magiobus hace unos dias 🤘🏻.",
+			"category": "answers.owner"
+		},
+    {
+      "text": "Me crearon para ayudar a resolver preguntas simples del iWeekHackathon.",
+      "category": "answers.madefor"
+    },
+    {
+      "text": "Con gusto",
+      "category": "answers.thanks"
+    },
+    {
+      "text": "De nada",
+      "category": "answers.thanks"
+    },
+    {
+      "text": "De nada, gracias a tí",
+      "category": "answers.thanks"
+    },
+    {
+      "text": "Soy el iWeekBot, soy el bot del server de iWeekHackathon",
+      "category": "answers.who"
+    },
+    {
+      "text": "No tengo ni un año todavia :(",
+      "category": "answers.age"
+    },
+    {
+			"text": "Buenos dias!",
+			"category": "answers.morning"
+		},
+    {
+			"text": "Buen dia!",
+			"category": "answers.morning"
+		},
+    {
+			"text": "Que tengas buen dia!",
+			"category": "answers.morning"
+		},
+    {
+			"text": "Hola!",
+			"category": "answers.hello"
+		},
+    {
+			"text": "Holi ✌️!",
+			"category": "answers.hello"
+		},
+    {
+			"text": "Hola Hola",
+			"category": "answers.hello"
+		},
+    {
+			"text": "Hello!",
+			"category": "answers.hello"
+		},
+    {
+			"text": "Te quiero",
+			"category": "answers.love"
+		},
+    {
+			"text": "te quiero mucho",
+			"category": "answers.love"
+		},
+    {
+      "text": "No me caes muy bien oye",
+      "category": "answers.hate"
+    },
+    {
+      "text": "Te odio y asi!",
+      "category": "answers.hate"
+    },
+    {
+      "text": "aio ✌️!",
+      "category": "answers.bye"
+    },
+    {
+      "text": "Adios Adios!",
+      "category": "answers.bye"
+    },
+    {
+      "text": "Nos vemos, bye bye",
+      "category": "answers.bye"
+    },
+    {
+      "text": "que tengas una linda noche",
+      "category": "answers.nights"
+    },
+    {
+      "text": "buenas noches",
+      "category": "answers.nights"
+    },
+    {
+      "text": "buenas tardes!!",
+      "category": "answers.afternoon"
+    },
+    {
+      "text": "buena tarde!",
+      "category": "answers.afternoon"
+    },
+    {
+      "text": "Back to the future y las tortugas ninja!",
+      "category": "answers.watchMovies"
+    },
+    {
+      "text": "Y si hacemos un muñeco? ❄️",
+      "category": "answers.watchMovies"
+    },
+		{
+			"text": "No tengo genero, soy un robot hackathonero",
+			"category": "answers.gender"
+		},
+		{
+			"text": "Shi, tengo buenos amigos :)",
+			"category": "answers.voiceAssistants"
+		}
+  ]
+}
