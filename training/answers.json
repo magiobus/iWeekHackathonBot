@@ -1,6 +1,14 @@
 {
   "answers": [
     {
+      "text": "Las bases del evento se pueden consultar en => http://www.iweek.mx/hackaton/bases-h2020.pdf",
+      "category": "answers.eventBases"
+    },
+    {
+			"text": "El github de iweekhackathon es => https://github.com/iWeekHackathon \n Ahí puedes encontrar las bases e información para utilizar en tus proyectos",
+			"category": "answers.github"
+		},
+    {
       "text": "Las verticales son Comercio, Turismo y Social. Puedes consultar los retos en http://www.iweek.mx/hackaton/index.html",
       "category": "answers.vertical"
     },

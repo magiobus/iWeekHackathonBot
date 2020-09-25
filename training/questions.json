@@ -1,6 +1,34 @@
 {
 	"questions": [
 		{
+			"text": "Cuales son las bases del evento",
+			"category": "answers.eventBases"
+		},
+		{
+			"text": "Cual es la convocatoria del evento",
+			"category": "answers.eventBases"
+		},
+		{
+			"text": "Dame las bases del evento",
+			"category": "answers.eventBases"
+		},
+		{
+			"text": "Dame la convocatoria del evento",
+			"category": "answers.eventBases"
+		},
+		{
+			"text": "Dame el repositorio del hackathon",
+			"category": "answers.github"
+		},
+		{
+			"text": "Dame el github del hackathon",
+			"category": "answers.github"
+		},
+		{
+			"text": "Cual es el github del hackathon?",
+			"category": "answers.github"
+		},
+		{
 			"text": "Cuales son los retos?",
 			"category": "answers.vertical"
 		},
@@ -26,6 +54,10 @@
 		},
 		{
 			"text": "Como armo mi equipo?",
+			"category": "answers.teambuild"
+		},
+		{
+			"text": "no tengo equipo",
 			"category": "answers.teambuild"
 		},
 		{
