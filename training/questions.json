@@ -1,6 +1,18 @@
 {
 	"questions": [
 		{
+			"text": "Como registro mi equipo?",
+			"category": "answers.registerTeam"
+		},
+		{
+			"text": "donde registro mi equipo?",
+			"category": "answers.registerTeam"
+		},
+		{
+			"text": "donde se registra el equipo?",
+			"category": "answers.registerTeam"
+		},
+		{
 			"text": "Me das un burrito?",
 			"category": "answers.burrito"
 		},

@@ -1,6 +1,10 @@
 {
   "answers": [
     {
+			"text": "Tienes que elegir un representante de equipo. (Que sea de Chihuahua preferentemente) \n El representante va a dar de alta su equipo y proyecto en https://iweek.hacky.mx/ \n Donde dice Nombre y apellido de los integrantes, por favor agrega también el usuario de discord de cada integrante",
+			"category": "answers.registerTeam"
+		},
+    {
       "text": ":burrito: provecho!",
       "category": "answers.burrito"
     },
