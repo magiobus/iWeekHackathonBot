@@ -1,6 +1,22 @@
 {
   "answers": [
     {
+      "text": ":burrito: provecho!",
+      "category": "answers.burrito"
+    },
+    {
+      "text": "Si, es más te doy dos! :burrito: :burrito: ",
+      "category": "answers.burrito"
+    },
+    {
+      "text": "Chi :burrito: ",
+      "category": "answers.burrito"
+    },
+    {
+      "text": "Chi, pero dejo dos para que regales uno :)  :burrito: :burrito: ",
+      "category": "answers.burrito"
+    },
+    {
       "text": "Las bases del evento se pueden consultar en => http://www.iweek.mx/hackaton/bases-h2020.pdf",
       "category": "answers.eventBases"
     },

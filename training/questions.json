@@ -1,6 +1,18 @@
 {
 	"questions": [
 		{
+			"text": "Me das un burrito?",
+			"category": "answers.burrito"
+		},
+		{
+			"text": "Quiero un burrito",
+			"category": "answers.burrito"
+		},
+		{
+			"text": "Dame un burrito",
+			"category": "answers.burrito"
+		},
+		{
 			"text": "Cuales son las bases del evento",
 			"category": "answers.eventBases"
 		},
@@ -308,6 +320,10 @@
       "text": "cual es la agenda de la semana?",
       "category": "answers.events"
     },
+		{
+			"text": "dame los eventos",
+			"category": "answers.events"
+		},
     {
       "text": "a que hora es la entrega de proyectos?",
       "category": "answers.events"
