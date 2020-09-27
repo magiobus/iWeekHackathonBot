@@ -1,6 +1,262 @@
 {
 	"questions": [
 		{
+			"text": "dame palomitas",
+			"category": "answers.popcorn"
+		},
+		{
+			"text": "tienes popcorn?",
+			"category": "answers.popcorn"
+		},
+		{
+			"text": "tienes palomitas?",
+			"category": "answers.popcorn"
+		},
+		{
+			"text": "tienes crispetas?",
+			"category": "answers.popcorn"
+		},
+		{
+			"text": "tienes maruchan?",
+			"category": "answers.soup"
+		},
+		{
+			"text": "tienes sopa?",
+			"category": "answers.soup"
+		},
+		{
+			"text": "dame una sopita",
+			"category": "answers.soup"
+		},
+		{
+			"text": "dame un udon",
+			"category": "answers.soup"
+		},
+		{
+			"text": "dame un ramen",
+			"category": "answers.soup"
+		},
+		{
+			"text": "dame una sopa",
+			"category": "answers.soup"
+		},
+		{
+			"text": "tienes galletas?",
+			"category": "answers.cookie"
+		},
+		{
+			"text": "dame una galleta",
+			"category": "answers.cookie"
+		},
+		{
+			"text": "quiero una galleta",
+			"category": "answers.cookie"
+		},
+		{
+			"text": "quiero un hot dog",
+			"category": "answers.hotdog"
+		},
+		{
+			"text": "quiero un hotdog",
+			"category": "answers.hotdog"
+		},
+		{
+			"text": "me das un hotdog?",
+			"category": "answers.hotdog"
+		},
+		{
+			"text": "tienes dogos?",
+			"category": "answers.hotdog"
+		},
+		{
+			"text": "quiero un hotdog",
+			"category": "answers.hotdog"
+		},
+		{
+			"text": "Dame un jocho",
+			"category": "answers.hotdog"
+		},
+		{
+			"text": "Dame un dogo",
+			"category": "answers.hotdog"
+		},
+		{
+			"text": "Dame un hotdog",
+			"category": "answers.hotdog"
+		},
+		{
+			"text": "quiero una hamburgesa",
+			"category": "answers.burger"
+		},
+		{
+			"text": "quiero una burger",
+			"category": "answers.burger"
+		},
+		{
+			"text": "Dame una burger",
+			"category": "answers.burger"
+		},
+		{
+			"text": "Dame hamburgesa",
+			"category": "answers.burger"
+		},
+		{
+			"text": "Dame leche",
+			"category": "answers.milk"
+		},
+		{
+			"text": "Quiero leche",
+			"category": "answers.milk"
+		},
+		{
+			"text": "Tienes leche ?",
+			"category": "answers.milk"
+		},
+		{
+			"text": "tienes cheve?",
+			"category": "answers.beer"
+		},
+		{
+			"text": "tienes cerveza?",
+			"category": "answers.beer"
+		},
+		{
+			"text": "quiero una cerveza",
+			"category": "answers.beer"
+		},
+		{
+			"text": "dame una cerveza",
+			"category": "answers.beer"
+		},
+		{
+			"text": "dame una chela",
+			"category": "answers.beer"
+		},
+		{
+			"text": "dame una birria",
+			"category": "answers.beer"
+		},
+		{
+			"text": "dame una cheve",
+			"category": "answers.beer"
+		},
+		{
+			"text": "quiero unos taquirris",
+			"category": "answers.taco"
+		},
+		{
+			"text": "quiero unos taquitos",
+			"category": "answers.taco"
+		},
+		{
+			"text": "dame unos tacos de suadero",
+			"category": "answers.taco"
+		},
+		{
+			"text": "dame unos tacos de longaniza",
+			"category": "answers.taco"
+		},
+		{
+			"text": "dame unos tacos de pastor",
+			"category": "answers.taco"
+		},
+		{
+			"text": "me pone tacos de bistec",
+			"category": "answers.taco"
+		},
+		{
+			"text": "me pone tacos de longaniza",
+			"category": "answers.taco"
+		},
+		{
+			"text": "me pone tacos de suadero",
+			"category": "answers.taco"
+		},
+		{
+			"text": "me pone tacos de pastor",
+			"category": "answers.taco"
+		},
+		{
+			"text": "quiero tacos!",
+			"category": "answers.taco"
+		},
+		{
+			"text": "necesito tacos!",
+			"category": "answers.taco"
+		},
+		{
+			"text": "quiero unos esquites",
+			"category": "answers.corn"
+		},
+		{
+			"text": "me das unos esquites",
+			"category": "answers.corn"
+		},
+		{
+			"text": "me das un elotito",
+			"category": "answers.corn"
+		},
+		{
+			"text": "tienes elotes?",
+			"category": "answers.corn"
+		},
+		{
+			"text": "Quiero un elote",
+			"category": "answers.corn"
+		},
+		{
+			"text": "Me das un elote",
+			"category": "answers.corn"
+		},
+		{
+			"text": "Me das un cafe",
+			"category": "answers.coffee"
+		},
+		{
+			"text": "Necesito un cafecito",
+			"category": "answers.coffee"
+		},
+		{
+			"text": "Dame un café",
+			"category": "answers.coffee"
+		},
+		{
+			"text": "Quiero un cafe",
+			"category": "answers.coffee"
+		},
+		{
+			"text": "Quiero un café",
+			"category": "answers.coffee"
+		},
+		{
+			"text": "Necesito un café",
+			"category": "answers.coffee"
+		},
+		{
+			"text": "tienes café?",
+			"category": "answers.coffee"
+		},
+		{
+			"text": "dame una rebanada de pizza",
+			"category": "answers.pizza"
+		},
+		{
+			"text": "dame una pizza",
+			"category": "answers.pizza"
+		},
+		{
+			"text": "quiero una pizza",
+			"category": "answers.pizza"
+		},
+		{
+			"text": "Me das una pizza",
+			"category": "answers.pizza"
+		},
+		{
+			"text": "tienes pizza?",
+			"category": "answers.pizza"
+		},
+		{
 			"text": "Como registro mi equipo?",
 			"category": "answers.registerTeam"
 		},
@@ -22,6 +278,10 @@
 		},
 		{
 			"text": "Dame un burrito",
+			"category": "answers.burrito"
+		},
+		{
+			"text": "dame un burrito",
 			"category": "answers.burrito"
 		},
 		{

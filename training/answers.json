@@ -1,6 +1,78 @@
 {
   "answers": [
     {
+      "text": "Ay le van 🍿",
+      "category": "answers.popcorn"
+    },
+    {
+			"text": "Sale una sopita, 🍜",
+			"category": "answers.soup"
+		},
+    {
+			"text": "chi, 🍪",
+			"category": "answers.cookie"
+		},
+    {
+			"text": "Sale un dogo! 🌭",
+			"category": "answers.hotdog"
+		},
+    {
+      "text": "Ay le va 🍔",
+      "category": "answers.burger"
+    },
+    {
+			"text": "Lo siento, solo tengo esta presentación 🍼",
+			"category": "answers.milk"
+		},
+    {
+			"text": "Ay le va su vasito con leche 🥛",
+			"category": "answers.milk"
+		},
+    {
+      "text": "Ay le va 🍺",
+      "category": "answers.beer"
+    },
+    {
+      "text": "Claro que si, sólo por favor no manejes 🍺",
+      "category": "answers.beer"
+    },
+    {
+      "text": "Sale una orden de pastor! 🌮🌮🌮🌮",
+      "category": "answers.taco"
+    },
+    {
+      "text": "Sale una orden con todo! 🌮🌮🌮🌮",
+      "category": "answers.taco"
+    },
+    {
+      "text": "Claro que si, ay le va una orden 🌮🌮🌮🌮",
+      "category": "answers.taco"
+    },
+    {
+      "text": "Se me acabaron los vasos joven... 🌽",
+      "category": "answers.corn"
+    },
+    {
+      "text": "Se me acabaron los vasos joven... 🌽",
+      "category": "answers.corn"
+    },
+    {
+      "text": "Nadamás tengo elote entero, ay tu le pones mayonesa... 🌽",
+      "category": "answers.corn"
+    },
+    {
+			"text": "Ay te va ☕️",
+			"category": "answers.coffee"
+		},
+    {
+			"text": "Claro que chi, tenga usted ☕️",
+			"category": "answers.coffee"
+		},
+    {
+      "text": "Ay te va una rebanada 🍕",
+      "category": "answers.pizza"
+    },
+    {
 			"text": "Tienes que elegir un representante de equipo. (Que sea de Chihuahua preferentemente) \n El representante va a dar de alta su equipo y proyecto en https://iweek.hacky.mx/ \n Donde dice Nombre y apellido de los integrantes, por favor agrega también el usuario de discord de cada integrante",
 			"category": "answers.registerTeam"
 		},
