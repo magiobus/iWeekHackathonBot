@@ -16,3 +16,7 @@ Install dependencies
 
   Run your bot
    ```node index.js```
+   
+   
+   Check BotResponses.js 
+   there is a line that should be commented at first. and a model.nlp file on root should be created.
