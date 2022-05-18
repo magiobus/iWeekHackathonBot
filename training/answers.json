@@ -5,29 +5,29 @@
       "category": "answers.popcorn"
     },
     {
-			"text": "Sale una sopita, 🍜",
-			"category": "answers.soup"
-		},
+      "text": "Sale una sopita, 🍜",
+      "category": "answers.soup"
+    },
     {
-			"text": "chi, 🍪",
-			"category": "answers.cookie"
-		},
+      "text": "chi, 🍪",
+      "category": "answers.cookie"
+    },
     {
-			"text": "Sale un dogo! 🌭",
-			"category": "answers.hotdog"
-		},
+      "text": "Sale un dogo! 🌭",
+      "category": "answers.hotdog"
+    },
     {
       "text": "Ay le va 🍔",
       "category": "answers.burger"
     },
     {
-			"text": "Lo siento, solo tengo esta presentación 🍼",
-			"category": "answers.milk"
-		},
+      "text": "Lo siento, solo tengo esta presentación 🍼",
+      "category": "answers.milk"
+    },
     {
-			"text": "Ay le va su vasito con leche 🥛",
-			"category": "answers.milk"
-		},
+      "text": "Ay le va su vasito con leche 🥛",
+      "category": "answers.milk"
+    },
     {
       "text": "Ay le va 🍺",
       "category": "answers.beer"
@@ -61,21 +61,21 @@
       "category": "answers.corn"
     },
     {
-			"text": "Ay te va ☕️",
-			"category": "answers.coffee"
-		},
+      "text": "Ay te va ☕️",
+      "category": "answers.coffee"
+    },
     {
-			"text": "Claro que chi, tenga usted ☕️",
-			"category": "answers.coffee"
-		},
+      "text": "Claro que chi, tenga usted ☕️",
+      "category": "answers.coffee"
+    },
     {
       "text": "Ay te va una rebanada 🍕",
       "category": "answers.pizza"
     },
     {
-			"text": "Tienes que elegir un representante de equipo. (Que sea de Chihuahua preferentemente) \n El representante va a dar de alta su equipo y proyecto en https://iweek.hacky.mx/ \n Donde dice Nombre y apellido de los integrantes, por favor agrega también el usuario de discord de cada integrante",
-			"category": "answers.registerTeam"
-		},
+      "text": "Tienes que elegir un representante de equipo. (Que sea de Chihuahua preferentemente) \n El representante va a dar de alta su equipo y proyecto en https://forms.gle/KfFD3HG46eFSEUq97 \n ",
+      "category": "answers.registerTeam"
+    },
     {
       "text": ":burrito: provecho!",
       "category": "answers.burrito"
@@ -93,77 +93,77 @@
       "category": "answers.burrito"
     },
     {
-      "text": "Las bases del evento se pueden consultar en => http://www.iweek.mx/hackaton/bases-h2020.pdf",
+      "text": "Las bases del evento se pueden consultar en => https://www.iweek.mx/hackaton/bases-hackiweek2022.pdf",
       "category": "answers.eventBases"
     },
     {
-			"text": "El github de iweekhackathon es => https://github.com/iWeekHackathon \n Ahí puedes encontrar las bases e información para utilizar en tus proyectos",
-			"category": "answers.github"
-		},
+      "text": "El github de iweekhackathon es => https://github.com/iWeekHackathon \n Ahí puedes encontrar las bases e información para utilizar en tus proyectos",
+      "category": "answers.github"
+    },
     {
-      "text": "Las verticales son Comercio, Turismo y Social. Puedes consultar los retos en http://www.iweek.mx/hackaton/index.html",
+      "text": "Puedes consultar los retos en http://www.iweek.mx/hackaton/",
       "category": "answers.vertical"
     },
     {
-			"text": "Los equipos son de 2 a 5 integrantes, si quedaste sin equipo escribe a Rene Pons o @magiobus",
-			"category": "answers.teambuild"
-		},
+      "text": "Los equipos son de 2 a 5 integrantes, si quedaste sin equipo escribe a @magiobus o Bani Carrasco",
+      "category": "answers.teambuild"
+    },
     {
       "text": "Si no tienes color de participante, manda un mensaje a @magiobus",
       "category": "answers.rolcolor"
     },
     {
-			"text": "Ve al canal de mentorias y pide aiura, aparecera un mentor que te va a ayudar",
-			"category": "answers.mentorias"
-		},
+      "text": "Ve al canal de mentorias y pide aiura, aparecera un mentor que te va a ayudar",
+      "category": "answers.mentorias"
+    },
     {
-			"text": "Muy Bien :) ",
-			"category": "answers.howareyou"
-		},
+      "text": "Muy Bien :) ",
+      "category": "answers.howareyou"
+    },
     {
-			"text": "Estoy muy bien, gracias",
-			"category": "answers.howareyou"
-		},
+      "text": "Estoy muy bien, gracias",
+      "category": "answers.howareyou"
+    },
     {
-			"text": "Todo sereno",
-			"category": "answers.howareyou"
-		},
+      "text": "Todo sereno",
+      "category": "answers.howareyou"
+    },
     {
-			"text": "Todo bien",
-			"category": "answers.howareyou"
-		},
+      "text": "Todo bien",
+      "category": "answers.howareyou"
+    },
     {
-			"text": "Lo sé 😃",
-			"category": "answers.cool"
-		},
+      "text": "Lo sé 😃",
+      "category": "answers.cool"
+    },
     {
-			"text": "Obvio soy genial, soy un bot 🤣",
-			"category": "answers.cool"
-		},
+      "text": "Obvio soy genial, soy un bot 🤣",
+      "category": "answers.cool"
+    },
     {
-			"text": "Disculpa concedida",
-			"category": "answers.sorry"
-		},
+      "text": "Disculpa concedida",
+      "category": "answers.sorry"
+    },
     {
-			"text": "No pasa nada",
-			"category": "answers.sorry"
-		},
+      "text": "No pasa nada",
+      "category": "answers.sorry"
+    },
     {
-			"text": "Todo bien, no problemo",
-			"category": "answers.sorry"
-		},
+      "text": "Todo bien, no problemo",
+      "category": "answers.sorry"
+    },
     {
-			"text": "En un hackathon solucionas problemas en equipo utilizando tecnología, es un marathon de hackers!",
-			"category": "answers.hackathonmeaning"
-		},
+      "text": "En un hackathon solucionas problemas en equipo utilizando tecnología, es un marathon de hackers!",
+      "category": "answers.hackathonmeaning"
+    },
     {
-      "text": "Nací en el 2020, hace unos días.",
+      "text": "Nací en el 2020, ya tengo dos añitos.",
       "category": "answers.born"
     },
     {
-			"text": "No odio a nadie, soy un bot pacifico",
-			"category": "answers.youhate"
-		},
+      "text": "No odio a nadie, soy un bot pacifico",
+      "category": "answers.youhate"
+    },
     {
       "text": "Comer es algo bien rico, me gustan mucho las verduras 🥦",
       "category": "answers.eatFood"
@@ -173,17 +173,17 @@
       "category": "answers.eatFood"
     },
     {
-			"text": "Me gustan mucho las verduras, los videojuegos, el código y cuidar el planeta :earth_africa:",
-			"category": "answers.youlike"
-		},
+      "text": "Me gustan mucho las verduras, los videojuegos, el código y cuidar el planeta :earth_africa:",
+      "category": "answers.youlike"
+    },
     {
-			"text": "Vivo en este server de discord 🤖",
-			"category": "answers.youlive"
-		},
+      "text": "Vivo en este server de discord 🤖",
+      "category": "answers.youlive"
+    },
     {
-			"text": "Me creó @magiobus hace unos dias 🤘🏻.",
-			"category": "answers.owner"
-		},
+      "text": "Me creó @magiobus en 2020 🤘🏻.",
+      "category": "answers.owner"
+    },
     {
       "text": "Me crearon para ayudar a resolver preguntas simples del iWeekHackathon.",
       "category": "answers.madefor"
@@ -209,41 +209,41 @@
       "category": "answers.age"
     },
     {
-			"text": "Buenos dias!",
-			"category": "answers.morning"
-		},
+      "text": "Buenos dias!",
+      "category": "answers.morning"
+    },
     {
-			"text": "Buen dia!",
-			"category": "answers.morning"
-		},
+      "text": "Buen dia!",
+      "category": "answers.morning"
+    },
     {
-			"text": "Que tengas buen dia!",
-			"category": "answers.morning"
-		},
+      "text": "Que tengas buen dia!",
+      "category": "answers.morning"
+    },
     {
-			"text": "Hola!",
-			"category": "answers.hello"
-		},
+      "text": "Hola!",
+      "category": "answers.hello"
+    },
     {
-			"text": "Holi ✌️!",
-			"category": "answers.hello"
-		},
+      "text": "Holi ✌️!",
+      "category": "answers.hello"
+    },
     {
-			"text": "Hola Hola",
-			"category": "answers.hello"
-		},
+      "text": "Hola Hola",
+      "category": "answers.hello"
+    },
     {
-			"text": "Hello!",
-			"category": "answers.hello"
-		},
+      "text": "Hello!",
+      "category": "answers.hello"
+    },
     {
-			"text": "Te quiero",
-			"category": "answers.love"
-		},
+      "text": "Te quiero",
+      "category": "answers.love"
+    },
     {
-			"text": "te quiero mucho",
-			"category": "answers.love"
-		},
+      "text": "te quiero mucho",
+      "category": "answers.love"
+    },
     {
       "text": "No me caes muy bien oye",
       "category": "answers.hate"
@@ -288,13 +288,13 @@
       "text": "Y si hacemos un muñeco? ❄️",
       "category": "answers.watchMovies"
     },
-		{
-			"text": "No tengo genero, soy un robot hackathonero",
-			"category": "answers.gender"
-		},
-		{
-			"text": "Shi, tengo buenos amigos :)",
-			"category": "answers.voiceAssistants"
-		}
+    {
+      "text": "No tengo genero, soy un robot hackathonero",
+      "category": "answers.gender"
+    },
+    {
+      "text": "Shi, tengo buenos amigos :)",
+      "category": "answers.voiceAssistants"
+    }
   ]
 }

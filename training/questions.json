@@ -21,6 +21,14 @@
 			"category": "answers.soup"
 		},
 		{
+			"text": "una maruchan",
+			"category": "answers.soup"
+		},
+		{
+			"text": "saca las maruchanes",
+			"category": "answers.soup"
+		},
+		{
 			"text": "tienes sopa?",
 			"category": "answers.soup"
 		},
@@ -194,6 +202,10 @@
 		},
 		{
 			"text": "me das un elotito",
+			"category": "answers.corn"
+		},
+		{
+			"text": "saca el choclo",
 			"category": "answers.corn"
 		},
 		{
@@ -564,72 +576,71 @@
 			"text": "Conoces a Cortana o a siri?",
 			"category": "answers.voiceAssistants"
 		},
-    {
-      "text": "Muestrame los eventos",
-      "category": "answers.events"
-    },
-    {
-      "text": "que hay esta semana?",
-      "category": "answers.events"
-    },
-    {
-      "text": "que hay que hacer esta semana?",
-      "category": "answers.events"
-    },
-    {
-      "text": "eventos de la semana",
-      "category": "answers.events"
-    },
-    {
-      "text": "horarios",
-      "category": "answers.events"
-    },
-    {
-      "text": "dame la agenda",
-      "category": "answers.events"
-    },
-    {
-      "text": "cual es la agenda de la semana?",
-      "category": "answers.events"
-    },
+		{
+			"text": "Muestrame los eventos",
+			"category": "answers.events"
+		},
+		{
+			"text": "que hay esta semana?",
+			"category": "answers.events"
+		},
+		{
+			"text": "que hay que hacer esta semana?",
+			"category": "answers.events"
+		},
+		{
+			"text": "eventos de la semana",
+			"category": "answers.events"
+		},
+		{
+			"text": "horarios",
+			"category": "answers.events"
+		},
+		{
+			"text": "dame la agenda",
+			"category": "answers.events"
+		},
+		{
+			"text": "cual es la agenda de la semana?",
+			"category": "answers.events"
+		},
 		{
 			"text": "dame los eventos",
 			"category": "answers.events"
 		},
-    {
-      "text": "a que hora es la entrega de proyectos?",
-      "category": "answers.events"
-    },
-    {
-      "text": "a que hora es?",
-      "category": "answers.events"
-    },
 		{
-      "text": "aiura",
-      "category": "answers.help"
-    },
+			"text": "a que hora es la entrega de proyectos?",
+			"category": "answers.events"
+		},
 		{
-      "text": "necesito aiura",
-      "category": "answers.help"
-    },
-    {
-      "text": "Ayuda",
-      "category": "answers.help"
-    },
-    {
-      "text": "Ayudame",
-      "category": "answers.help"
-    },
-    {
-      "text": "Necesito ayuda",
-      "category": "answers.help"
-    },
-
-    {
+			"text": "a que hora es?",
+			"category": "answers.events"
+		},
+		{
+			"text": "aiura",
+			"category": "answers.help"
+		},
+		{
+			"text": "necesito aiura",
+			"category": "answers.help"
+		},
+		{
+			"text": "Ayuda",
+			"category": "answers.help"
+		},
+		{
+			"text": "Ayudame",
+			"category": "answers.help"
+		},
+		{
+			"text": "Necesito ayuda",
+			"category": "answers.help"
+		},
+		{
 			"text": "Cuales son tus peliculas favoritas?",
 			"category": "answers.watchMovies"
 		},
-    {
+		{
 			"text": "Que pelicula quieres ver?",
 			"category": "answers.watchMovies"
 		},
@@ -637,27 +648,27 @@
 			"text": "Puedes comer?",
 			"category": "answers.eatFood"
 		},
-    {
+		{
 			"text": "Que te gusta comer?",
 			"category": "answers.eatFood"
 		},
-    {
+		{
 			"text": "Cual es tu comida favorita?",
 			"category": "answers.eatFood"
 		},
-    {
+		{
 			"text": "Que quieres comer?",
 			"category": "answers.eatFood"
 		},
-    {
+		{
 			"text": "Buenísimo días!!! Criaturitas",
 			"category": "answers.morning"
 		},
-    {
+		{
 			"text": "bonita mañana",
 			"category": "answers.morning"
 		},
-    {
+		{
 			"text": "linda mañana",
 			"category": "answers.morning"
 		},
@@ -669,10 +680,10 @@
 			"text": "Buenos días gente",
 			"category": "answers.morning"
 		},
-    {
-      "text": "Ohayo",
-      "category": "answers.morning"
-    },
+		{
+			"text": "Ohayo",
+			"category": "answers.morning"
+		},
 		{
 			"text": "buenos días",
 			"category": "answers.morning"
@@ -693,50 +704,50 @@
 			"text": "Buen día!!",
 			"category": "answers.morning"
 		},
-    {
+		{
 			"text": "Buena mañana!",
 			"category": "answers.morning"
 		},
-    {
-      "text": "Buena noche",
-      "category": "answers.nights"
-    },
-    {
-      "text": "Que tengas buena noche",
-      "category": "answers.nights"
-    },
-    {
-      "text": "Bonita noche!",
-      "category": "answers.nights"
-    },
-    {
-      "text": "Oyasumi!",
-      "category": "answers.nights"
-    },
 		{
-      "text": "oyasuminasai!",
-      "category": "answers.nights"
-    },
-    {
-      "text": "Que tengas una linda noche 😀",
-      "category": "answers.nights"
-    },
-    {
-      "text": "Buenas tardes ",
-      "category": "answers.afternoon"
-    },
-    {
-      "text": "Buena tarde",
-      "category": "answers.afternoon"
-    },
-    {
-      "text": "Linda tarde ✌️",
-      "category": "answers.afternoon"
-    },
-    {
-      "text": "Que tengas una buena tarde",
-      "category": "answers.afternoon"
-    },
+			"text": "Buena noche",
+			"category": "answers.nights"
+		},
+		{
+			"text": "Que tengas buena noche",
+			"category": "answers.nights"
+		},
+		{
+			"text": "Bonita noche!",
+			"category": "answers.nights"
+		},
+		{
+			"text": "Oyasumi!",
+			"category": "answers.nights"
+		},
+		{
+			"text": "oyasuminasai!",
+			"category": "answers.nights"
+		},
+		{
+			"text": "Que tengas una linda noche 😀",
+			"category": "answers.nights"
+		},
+		{
+			"text": "Buenas tardes ",
+			"category": "answers.afternoon"
+		},
+		{
+			"text": "Buena tarde",
+			"category": "answers.afternoon"
+		},
+		{
+			"text": "Linda tarde ✌️",
+			"category": "answers.afternoon"
+		},
+		{
+			"text": "Que tengas una buena tarde",
+			"category": "answers.afternoon"
+		},
 		{
 			"text": "hola",
 			"category": "answers.hello"
@@ -745,14 +756,14 @@
 			"text": "oli",
 			"category": "answers.hello"
 		},
-    {
-      "text": "que tranza",
-      "category": "answers.hello"
-    },
-    {
-      "text": "que onda",
-      "category": "answers.hello"
-    },
+		{
+			"text": "que tranza",
+			"category": "answers.hello"
+		},
+		{
+			"text": "que onda",
+			"category": "answers.hello"
+		},
 		{
 			"text": "holi",
 			"category": "answers.hello"
@@ -773,15 +784,15 @@
 			"text": "hola como están?",
 			"category": "answers.hello"
 		},
-    {
-      "text": "Buenas gente!",
-      "category": "answers.hello"
-    },
-    {
-      "text": "wenas wenas",
-      "category": "answers.hello"
-    },
-    {
+		{
+			"text": "Buenas gente!",
+			"category": "answers.hello"
+		},
+		{
+			"text": "wenas wenas",
+			"category": "answers.hello"
+		},
+		{
 			"text": "Hola buenas",
 			"category": "answers.hello"
 		},
@@ -793,62 +804,62 @@
 			"text": "Que tranza",
 			"category": "answers.hello"
 		},
-    {
-      "text": "adios",
-      "category": "answers.bye"
-    },
-    {
-      "text": "sayonara",
-      "category": "answers.bye"
-    },
-    {
-      "text": "nos vemos luego",
-      "category": "answers.bye"
-    },
-    {
-      "text": "nos vemos",
-      "category": "answers.bye"
-    },
-    {
-      "text": "aio",
-      "category": "answers.bye"
-    },
-    {
-      "text": "aios",
-      "category": "answers.bye"
-    },
-    {
-      "text": "babay",
-      "category": "answers.bye"
-    },
-    {
-      "text": "nos vemos mañana",
-      "category": "answers.bye"
-    },
-    {
-      "text": "hasta mañana",
-      "category": "answers.bye"
-    },
-    {
-      "text": "que descansen",
-      "category": "answers.bye"
-    },
-    {
-      "text": "Ya me tengo que ir",
-      "category": "answers.bye"
-    },
-    {
-      "text": "nos vemos mañana",
-      "category": "answers.bye"
-    },
-    {
-      "text": "nos vemos luego",
-      "category": "answers.bye"
-    },
-    {
-      "text": "bye bye",
-      "category": "answers.bye"
-    },
+		{
+			"text": "adios",
+			"category": "answers.bye"
+		},
+		{
+			"text": "sayonara",
+			"category": "answers.bye"
+		},
+		{
+			"text": "nos vemos luego",
+			"category": "answers.bye"
+		},
+		{
+			"text": "nos vemos",
+			"category": "answers.bye"
+		},
+		{
+			"text": "aio",
+			"category": "answers.bye"
+		},
+		{
+			"text": "aios",
+			"category": "answers.bye"
+		},
+		{
+			"text": "babay",
+			"category": "answers.bye"
+		},
+		{
+			"text": "nos vemos mañana",
+			"category": "answers.bye"
+		},
+		{
+			"text": "hasta mañana",
+			"category": "answers.bye"
+		},
+		{
+			"text": "que descansen",
+			"category": "answers.bye"
+		},
+		{
+			"text": "Ya me tengo que ir",
+			"category": "answers.bye"
+		},
+		{
+			"text": "nos vemos mañana",
+			"category": "answers.bye"
+		},
+		{
+			"text": "nos vemos luego",
+			"category": "answers.bye"
+		},
+		{
+			"text": "bye bye",
+			"category": "answers.bye"
+		},
 		{
 			"text": "te amo",
 			"category": "answers.love"
@@ -889,7 +900,7 @@
 			"text": "te odio",
 			"category": "answers.hate"
 		},
-    {
+		{
 			"text": "no te quiero",
 			"category": "answers.hate"
 		},
@@ -897,29 +908,29 @@
 			"text": "chinga tu madre",
 			"category": "answers.hate"
 		},
-    {
+		{
 			"text": "jodete",
 			"category": "answers.hate"
 		},
-    {
+		{
 			"text": "pendejo",
 			"category": "answers.hate"
 		},
-    {
+		{
 			"text": "pendeja",
 			"category": "answers.hate"
 		},
-    {
-      "text": "fuck you",
-      "category": "answers.hate"
-    },
-    {
-      "text": "fuck u",
-      "category": "answers.hate"
-    },
-    {
-      "text": "fuck",
-      "category": "answers.hate"
-    }
+		{
+			"text": "fuck you",
+			"category": "answers.hate"
+		},
+		{
+			"text": "fuck u",
+			"category": "answers.hate"
+		},
+		{
+			"text": "fuck",
+			"category": "answers.hate"
+		}
 	]
 }
