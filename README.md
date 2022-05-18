@@ -9,6 +9,7 @@ Install dependencies
   ```TOKEN=YOUR_DISCORD_BOT_TOKEN_HERE
     GOOGLE_APPLICATION_CREDENTIALS=./gCalendarConfig.json
     GOOGLE_CALENDAR_ID=your_id@group.calendar.google.com
+    TOKEN=yourdiscordtoken
   ```
 
   Create .gCalendarConfig.json file on root with your google service_account json
